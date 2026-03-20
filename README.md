@@ -1,6 +1,6 @@
 # Hi 👋 My name is Adedoyin Itunu
 
-## AWS Certified Solutions Architect | Cloud & ML Engineer
+## AWS Certified Solutions Architect 
 
 I am an always-learning cloud and machine learning engineer based in Dublin, Ireland, passionate about building real solutions on AWS and growing into a strong DevOps practitioner.
 
